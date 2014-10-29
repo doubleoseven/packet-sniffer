@@ -1,0 +1,1 @@
+A sniffer (packet analyzer) is a program that intercepts the traffic passing through a network interface. In this project, we are going to implement our own packet sniffer using the libpcap library and to validate our program on actual network traffic
