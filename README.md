@@ -2,11 +2,11 @@ A sniffer (packet analyzer) is a program that intercepts the traffic passing thr
 
 Getting Started:
 <ol>
-<li>  check the demo file </li>
-<li> read http://recursos.aldabaknocking.com/libpcapHakin9LuisMartinGarcia.pdf  </li>
-<li> compile and run the samle code in demo file </li>
-<li> start working on either Linux, or the MacOS version.  </li>
-<li> fix bugs and add new features </li>
+<li>  Check the demo file </li>
+<li> Read http://recursos.aldabaknocking.com/libpcapHakin9LuisMartinGarcia.pdf  </li>
+<li> Compile and run the samle code in demo file </li>
+<li> Start working on either Linux, or the MacOS version.  </li>
+<li> Fix bugs and add new features </li>
 </ol>
 
 
